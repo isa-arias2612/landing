@@ -1,0 +1,7 @@
+.btn-green {
+  padding: 15px 24px;
+  background-color: green;
+  color: white;
+  border-radius: 8px;
+  display: inline-block;
+}
